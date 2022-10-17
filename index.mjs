@@ -34,12 +34,6 @@ if (!window) {
 // Title of the anime!
 const title = window[0].processTitle;
 
-// Title of the episode!
-if (!regex.test(title)) {
-    console.log("Title does not match regex");
-    process.exit(0);
-}
-
 // Variable to store the last title
 const [, anime, browser] = title.match(regex);
 
