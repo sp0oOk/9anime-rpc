@@ -7,3 +7,7 @@ A quick discord-rich-presence for the anime site "9anime", this hasn't been test
 
 # Run
 Simply double click on ./start.bat
+
+# Example
+
+![Presence](https://i.gyazo.com/0201daf1dbec2ad1503d73fb8b9c8a9c.png)
