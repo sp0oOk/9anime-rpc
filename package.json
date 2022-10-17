@@ -1,0 +1,18 @@
+{
+  "name": "9anime-rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "publisher": "spook",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "get-window-by-name": "^2.0.0"
+  }
+}
